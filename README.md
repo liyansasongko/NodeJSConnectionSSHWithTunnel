@@ -12,8 +12,13 @@ These instructions will get you a copy of the project up and running on your loc
 - Objection
 - Tunnel
 
-### Documentation tunnel-ssh
+### Documentation 
+#### tunnel-ssh
 Read [tunnel-ssh](https://www.npmjs.com/package/tunnel-ssh) for documentation tunnel-ssh.
+#### knex
+Read [knex](http://knexjs.org/) for documentation Knex.
+#### objection
+Read [objection](https://vincit.github.io/objection.js/guide/installation.html) for documentation Objection.
 
 ### Installing
 A step by step series of examples that tell you how to get a development env running
