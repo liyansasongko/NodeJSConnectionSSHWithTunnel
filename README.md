@@ -72,13 +72,7 @@ let sshConfig = {
 Tunnel(sshConfig, async (err, server) => {
     if(err) throw err.message
 
-    const config = process.env.NOTE_ENV === 'development' 
-        ? dbConfig.development 
-        : dbConfig.production
-
-    const knex = Knex(config)
-
-    Model.knex(knex)
+    //......
 })
 ```
 
