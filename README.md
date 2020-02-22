@@ -12,6 +12,9 @@ These instructions will get you a copy of the project up and running on your loc
 - Objection
 - Tunnel
 
+### Documentation tunnel-ssh
+Read [tunnel-ssh](https://www.npmjs.com/package/tunnel-ssh) for documentation tunnel-ssh.
+
 ### Installing
 A step by step series of examples that tell you how to get a development env running
 
