@@ -47,6 +47,7 @@ DB_PASSWORD= ******* // password database ssh
 node server.js
 ```
 
+example connection database ssh with tunnnel-ssh:
 ```
 const Tunnel = require('tunnel-ssh')
 const {Model, ref} = require('objection')
@@ -80,6 +81,7 @@ Tunnel(sshConfig, async (err, server) => {
     Model.knex(knex)
 })
 ```
+
 ## Deployment
 
 Add additional notes about how to deploy this on a live system
